@@ -11,7 +11,6 @@ import {
   Palette,
   Briefcase,
   Network,
-  Terminal,
   Database,
   Globe,
 } from "lucide-react";
