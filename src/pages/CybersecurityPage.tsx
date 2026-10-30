@@ -3,13 +3,10 @@ import { motion } from "framer-motion";
 import {
   ShieldCheck,
   Bug,
-  FileSearch2,
   Lock,
   Award,
   ArrowRight,
   Network,
-  Code2,
-  Search,
   Terminal,
 } from "lucide-react";
 

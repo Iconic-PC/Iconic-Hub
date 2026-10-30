@@ -6,6 +6,7 @@ export interface Project {
   category: ServiceCategory;
   categoryLabel: string;
   description: string;
+  accentGlyph?: string;
   image?: string;
   href?: string;
 }
